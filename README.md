@@ -29,4 +29,6 @@ O notebook `Sugestion_Patente.ipynb` realiza as seguintes etapas:
 
 ## Como usar
 
-1. Clone este repositório:
+1. Execute o primeiro notebook para gerar os embeddings das patentes.
+
+2. Em seguida, execute o segundo notebook para obter as recomendações de patentes semelhantes e visualizar os resultados.
