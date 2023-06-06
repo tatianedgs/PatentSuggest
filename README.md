@@ -44,11 +44,29 @@ O notebook `Sugestion_Patente.ipynb` realiza as seguintes etapas:
 
 O sistema também inclui uma aplicação interativa desenvolvida com o Streamlit. A aplicação permite realizar consultas e receber recomendações de patentes semelhantes. Veja como usar:
 
-1. Instale as dependências necessárias executando o seguinte comando: `pip install streamlit openai`.
+1. Abra o terminal ou prompt de comando.
 
-2. Execute a aplicação com o seguinte comando: `streamlit run Aplicacao.py`.
+2. Crie um novo ambiente virtual usando o Conda com o seguinte comando:
 
-3. Acesse a aplicação no seu navegador no endereço `http://localhost:8501`.
+```conda create --name nome_do_ambiente python=3.9```
+
+3. Ative o ambiente virtual recém-criado com o seguinte comando:
+
+```conda activate nome_do_ambiente```
+
+4. Navegue até o diretório raiz do projeto:
+
+```cd caminho/para/o/diretorio```
+
+5. Instale as dependências do projeto:
+
+```pip install -r requirements.txt```
+
+6. Execute a aplicação com o seguinte comando:
+
+`streamlit run Aplicacao.py`.
+
+ -  Pode acessar também a aplicação no seu navegador no endereço `http://localhost:8501`.
 
 ## Contribuição 👥
 
