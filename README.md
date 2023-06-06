@@ -1,6 +1,6 @@
 # Sistema de Recomendação de Patentes 💡🔍
 
-Este projeto implementa um Sistema de Recomendação de Patentes usando técnicas de processamento de linguagem natural e aprendizado de máquina. O objetivo é fornecer recomendações precisas e relevantes de patentes com base em seus textos descritivos.
+Este projeto implementa um Sistema de Recomendação de Patentes personalizado que utiliza o modelo de linguagem Ada-002 da OpenAI. Analisa dados de texto fornecidos pelo usuário e gera sugestões relevantes com base em conjuntos de palavras.
 
 ## Funcionalidades 🚀
 
