@@ -21,9 +21,9 @@ with st.sidebar:
     st.sidebar.markdown(
         '<h2 style="text-align: center;">Sobre o Sistema</h2>', unsafe_allow_html=True)
     st.markdown("""
-        Feito por Tatiane Santos ([LinkedIn](linkedin.com/in/tatiane-santos-31b79938)) e Evelyn Cristina.
+        Feito por Tatiane Santos ([LinkedIn](linkedin.com/in/tatiane-santos-31b79938)) e Evelyn Cristina ([LinkedIn](https://br.linkedin.com/in/evelynlima02))
 
-        Mais informações e o código fonte podem ser encontrados [aqui](...).
+        Mais informações e o código fonte podem ser encontrados [aqui](https://github.com/tatianedgs/PatentSuggest/blob/main/Aplicacao.py)
 
         <sub><sup>OBS: Este sistema é uma Prova de Conceito e pode conter erros.<sub><sup>
     """, unsafe_allow_html=True)
