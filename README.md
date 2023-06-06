@@ -44,7 +44,7 @@ O notebook `Sugestion_Patente.ipynb` realiza as seguintes etapas:
 
 O sistema também inclui uma aplicação interativa desenvolvida com o Streamlit. A aplicação permite realizar consultas e receber recomendações de patentes semelhantes. Veja como usar:
 
-1. Abra o terminal ou prompt de comando.
+1. Abra o terminal ou shell.
 
 2. Crie um novo ambiente virtual usando o Conda com o seguinte comando:
 
@@ -67,6 +67,10 @@ O sistema também inclui uma aplicação interativa desenvolvida com o Streamlit
 `streamlit run Aplicacao.py`.
 
  -  Pode acessar também a aplicação no seu navegador no endereço `http://localhost:8501`.
+ -  Na interface da aplicação, você pode inserir uma consulta de patente e receber recomendações de patentes semelhantes com base em um algoritmo de recomendação pré-treinado. 
+ -  Quando terminar de usar a aplicação, pressione Ctrl+C no terminal para encerrar a execução.
+
+Quando terminar de usar a aplicação, pressione Ctrl+C no terminal para encerrar a execução.
 
 ## Contribuição 👥
 
