@@ -12,8 +12,9 @@ O notebook `Embeddings_Patente.ipynb` realiza as seguintes etapas:
 
 - Indicação de um conjunto de dados de publicações de patentes.
 - Utilização do endpoint de embeddings do OpenAI para gerar representações vetoriais de alta qualidade para cada texto de patente. ✨
-  - Utilização do modelo de incorporação `text-embedding-ada-002` fornecido pelo OpenAI para gerar vetores de alta qualidade para cada texto de patente.
-  - Aplicação da codificação `cl100k_base`, que é específica para o modelo de incorporação `text-embedding-ada-002`.
+  * Essas embeddings são geradas a partir da união do Título e do Resumo de cada Patente.
+  * Utilização do modelo de incorporação `text-embedding-ada-002` fornecido pelo OpenAI para gerar vetores de alta qualidade para cada texto de patente.
+  * Aplicação da codificação `cl100k_base`, que é específica para o modelo de incorporação `text-embedding-ada-002`.
 - Preparação dos dados para análise ou tarefas de aprendizado de máquina posteriores.
 
 ### Parte 2: Sugestion_Patente.ipynb
@@ -70,6 +71,7 @@ O sistema também inclui uma aplicação interativa desenvolvida com o Streamlit
 
  -  Pode acessar também a aplicação no seu navegador no endereço `http://localhost:8501`.
  -  Na interface da aplicação, você pode inserir uma consulta de patente e receber recomendações de patentes semelhantes com base em um algoritmo de recomendação pré-treinado. 
+        * Essa consulta deve ser feita com o arquivo .csv obtido no primeiro notebook (`Embeddings_Patente.ipynb`) e que já contempla as embeddings das patentes.
  -  Quando terminar de usar a aplicação, pressione Ctrl+C no terminal para encerrar a execução.
 
 Quando terminar de usar a aplicação, pressione Ctrl+C no terminal para encerrar a execução.
