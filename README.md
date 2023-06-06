@@ -37,7 +37,7 @@ O notebook `Sugestion_Patente.ipynb` realiza as seguintes etapas:
 
 ## Exemplo de Resultado 📷
 
-![Exemplo de Recomendação](./image/IMG1.PNG)
+![Exemplo de Recomendação1](./image/IMG1.PNG)
 ![Exemplo de Recomendação2](./image/IMG2.PNG)
 
 ## Contribuição 👥
