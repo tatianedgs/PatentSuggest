@@ -42,6 +42,8 @@ O notebook `Sugestion_Patente.ipynb` realiza as seguintes etapas:
 
 ## Aplicação: Sistema de Recomendação de Patente
 
+![Aplicação2](./image/IMG3.PNG)
+
 O sistema também inclui uma aplicação interativa desenvolvida com o Streamlit. A aplicação permite realizar consultas e receber recomendações de patentes semelhantes. Veja como usar:
 
 1. Abra o terminal ou shell.
