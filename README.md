@@ -40,6 +40,16 @@ O notebook `Sugestion_Patente.ipynb` realiza as seguintes etapas:
 ![Exemplo de Recomendação1](./image/IMG1.PNG)
 ![Exemplo de Recomendação2](./image/IMG2.PNG)
 
+## Aplicação: Sistema de Recomendação de Patente
+
+O sistema também inclui uma aplicação interativa desenvolvida com o Streamlit. A aplicação permite realizar consultas e receber recomendações de patentes semelhantes. Veja como usar:
+
+1. Instale as dependências necessárias executando o seguinte comando: `pip install streamlit openai`.
+
+2. Execute a aplicação com o seguinte comando: `streamlit run Aplicacao.py`.
+
+3. Acesse a aplicação no seu navegador no endereço `http://localhost:8501`.
+
 ## Contribuição 👥
 
 Contribuições são bem-vindas! 🤝
