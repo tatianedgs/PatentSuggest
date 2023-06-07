@@ -89,4 +89,4 @@ Contribuições são bem-vindas! 🤝
 Este projeto é licenciado sob a [Licença MIT](LICENSE).
 
 
-![Apresentação de Patente](https://github.com/tatianedgs/PatentSuggest/raw/main/Apresentacao_Patente.pdf)
+[Apresentação da Patente](Apresentacao_Patente.pdf)
