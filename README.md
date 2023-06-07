@@ -1,7 +1,8 @@
 # Sistema de Recomendação de Patentes 💡🔍
 
-AUTORES: TATIANE SANTOS
-         EVELYN LIMA
+AUTORES: 
+* TATIANE SANTOS
+* EVELYN LIMA
          
 Este projeto implementa um Sistema de Recomendação de Patentes personalizado que utiliza o modelo de linguagem Ada-002 da OpenAI. Analisa dados de texto fornecidos pelo usuário e gera sugestões relevantes com base em conjuntos de palavras.
 
