@@ -84,10 +84,7 @@ Quando terminar de usar a aplicação, pressione Ctrl+C no terminal para encerra
 
 Contribuições são bem-vindas! 🤝
 
-## Licença 📝
-
-Este projeto é licenciado sob a [Licença MIT](LICENSE).
-
+## Veja também:
 
 ![Apresentação da Patente](Apresentacao_Patente.pdf)
 
