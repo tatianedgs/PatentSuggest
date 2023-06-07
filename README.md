@@ -83,9 +83,3 @@ Quando terminar de usar a aplicação, pressione Ctrl+C no terminal para encerra
 ## Contribuição 👥
 
 Contribuições são bem-vindas! 🤝
-
-## Veja também:
-
-![Apresentação da Patente](Apresentacao_Patente.pdf)
-
-![Nome do Vídeo](video/video.mp4)
