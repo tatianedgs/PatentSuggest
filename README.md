@@ -1,5 +1,8 @@
 # Sistema de Recomendação de Patentes 💡🔍
 
+AUTORES: TATIANE SANTOS
+         EVELYN LIMA
+         
 Este projeto implementa um Sistema de Recomendação de Patentes personalizado que utiliza o modelo de linguagem Ada-002 da OpenAI. Analisa dados de texto fornecidos pelo usuário e gera sugestões relevantes com base em conjuntos de palavras.
 
 ## Funcionalidades 🚀
@@ -83,3 +86,6 @@ Contribuições são bem-vindas! 🤝
 ## Licença 📝
 
 Este projeto é licenciado sob a [Licença MIT](LICENSE).
+
+
+![Apresentação de Patente](https://github.com/tatianedgs/PatentSuggest/raw/main/Apresentacao_Patente.pdf)
