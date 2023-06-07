@@ -85,3 +85,4 @@ Quando terminar de usar a aplicação, pressione Ctrl+C no terminal para encerra
 Contribuições são bem-vindas! 🤝
 
 [Assistir ao vídeo](https://www.loom.com/share/88af704e9df84d0ca609495e53311ce9)
+[![Alt Text](https://img.youtube.com/vi/ExVWoyph0kw/0.jpg)](https://www.youtube.com/ExVWoyph0kw)
